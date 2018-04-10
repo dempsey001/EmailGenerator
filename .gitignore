@@ -1,0 +1,17 @@
+syntax: glob
+
+*.bak
+*.orig
+thumbs.db
+.DS_Store
+bin/
+obj/
+_ReSharper.*/
+tmp/
+.vs/
+*.user
+*.suo
+*.trx
+*.dbmdl
+*.refactorlog
+

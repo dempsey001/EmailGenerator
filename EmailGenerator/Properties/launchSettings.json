@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EmailGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "-c 10 -e 5 -d 10"
+    }
+  }
+}
